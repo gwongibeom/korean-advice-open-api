@@ -31,7 +31,7 @@
 
 초기 명언 리스트 : [chkim116/kadvice](https://github.com/chkim116/kadvice)
 
-### 로컬 실행 방법 🏃
+## 로컬 실행 방법 🏃
 
 ```bash
 git clone https://github.com/gwongibeom/korean-advice-open-api.git
