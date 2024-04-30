@@ -91,6 +91,11 @@ export default [
     message: '늘 갈망하고 우직하게 나아가라.',
   },
   {
+    author: '스티브 잡스',
+    authorProfile: '애플 창업자',
+    message: '매일을 인생의 마지막 날처럼 산다면 언젠가는 의인이 되어있을 것이다.',
+  },
+  {
     author: '소크라테스',
     authorProfile: '철학자',
     message: '반성되지 않는 삶은 인간으로서 살 가치가 없다.',
@@ -240,5 +245,10 @@ export default [
     authorProfile: '극작가, 사회주의자',
     message:
       '실수하며 보낸 인생은 아무것도 하지 않은 인생보다 존경스러울 뿐 아니라 더 유용하다.',
+  },
+  {
+    author: '미야모토 시게루',
+    authorProfile: '닌텐도 대표이사',
+    message: '모든 경험은 삶의 양식이 되기 때문에 인생에 헛된 경험은 없습니다.',
   },
 ]
