@@ -8,11 +8,11 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
     res.status(200).end()
     return
   }
-`
+
   const randomAdvice: object =
     _advices[Math.floor(Math.random() * _advices.length)]
 
   res.status(200).json({
     ...randomAdvice,
   })
-}`
+}
