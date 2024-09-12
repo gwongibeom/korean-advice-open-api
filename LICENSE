@@ -1,21 +1,92 @@
-MIT License
+사용자 정의 라이선스
+
+저작권자: Gi Beom Gwon
+날짜: 2024-09-13
+
+이용 조건:
+
+1. 비상업적 무료 사용:
+
+본 프로젝트는 무료로 사용 가능합니다. 단, 이 프로젝트를 사용할 때 GitHub 저장소 링크 또는 저작권자 정보를 명확하게 표기해야 합니다.
+
+
+
+2. 수정 금지:
+
+본 소프트웨어의 코드를 수정하거나 파생된 버전을 만들 수 없습니다. 배포 시 원본 그대로 배포되어야 합니다.
+
+
+
+3. 불법 사용 금지:
+
+대한민국 법에 위배되는 제품이나 서비스에서 본 소프트웨어를 사용할 수 없습니다.
+
+
+
+4. 상업적 사용:
+
+상업적 목적으로 본 소프트웨어를 사용하고자 할 경우, 저작권자 Gwongibeom과 사전 협의를 통해 별도의 허가를 받아야 합니다.
+
+
+
+5. 책임의 제한:
+
+본 소프트웨어는 "있는 그대로" 제공됩니다. 저작권자는 본 소프트웨어 사용과 관련하여 발생할 수 있는 문제나 손해에 대해 어떠한 책임도 지지 않습니다.
+
+
+
+
+기타 사항:
+
+본 라이선스는 변경될 수 있으며, 변경된 라이선스는 변경된 날짜 이후에 적용됩니다.
+
+이 라이선스를 위반한 경우, 사용 권한이 즉시 취소될 수 있습니다.
+
+=== English ===
+
+
+Custom License
+
+Copyright Holder: Gwongibeom
+Date: 2024-09-13
+
+Terms of Use:
+
+1. Free for Non-Commercial Use:
+
+This project can be used for free, provided that the GitHub repository link or the copyright holder's information is clearly cited when used.
+
+
+
+2. No Modifications:
+
+The code of this software may not be modified or used to create derivative works. It must be distributed in its original form.
+
+
+
+3. Prohibition of Illegal Use:
+
+This software may not be used in any products or services that violate the laws of the Republic of Korea.
+
+
+
+4. Commercial Use:
+
+For commercial use, permission must be obtained through prior consultation with the copyright holder, Gwongibeom.
+
+
+
+5. Limitation of Liability:
+
+This software is provided "as is" without any warranty. The copyright holder is not responsible for any issues or damages that may arise from the use of this software.
+
+
+
+
+Miscellaneous:
+
+This license may be updated, and any changes will take effect from the date of the updated license.
+
+If any of the terms of this license are violated, the user's right to use the software will be immediately revoked.
 
 Copyright (c) 2024 Gi Beom Gwon
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
