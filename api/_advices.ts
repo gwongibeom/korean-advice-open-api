@@ -210,7 +210,7 @@ export default [
   },
   {
     author: '커트 코베인',
-    authorProfile: '스페이스X 창업자, 테슬라 CEO',
+    authorProfile: '밴드 너바나, 보컬리스트',
     message: '열정없이 사느니 차라리 죽는게 낫다.',
   },
   {
