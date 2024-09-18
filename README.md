@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwongibeom%2Fkorean-advice-open-api&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-영어 명언 API는 있는데 한국어 명언 API는 없어서 직접 구현한 서버리스 함수 API 입니다.
+한국어 명언 API는 아래와 같은 기능을 제공하는 API 입니다.
 
 - 랜덤으로 한국어 명언 불러오기
 - ~조건으로 한국어 명언 불러오기~
