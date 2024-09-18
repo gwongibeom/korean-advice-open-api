@@ -58,3 +58,9 @@ vercel dev
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+## 상업적 사용 문의 연락처
+
+```
+k201gun@kakao.com
+```
