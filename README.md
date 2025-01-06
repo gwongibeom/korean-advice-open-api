@@ -59,7 +59,11 @@ vercel dev
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-## 상업적 사용 문의 연락처
+## 상업적 사용 문의
+
+한국어 명언 API는 불법(ex 불법도박) 및 차별적 상업 사이트 사용 방지 및 원활한 운영을 위해 커스텀 라이센스를 사용하고 있습니다.
+
+상업적 사용시 아래 이메일로 문의 바랍니다.
 
 ```
 k201gun@kakao.com
